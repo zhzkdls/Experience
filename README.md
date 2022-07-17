@@ -9,17 +9,15 @@
 * **IT/SW 서비스 구축을 위한 프론트엔드 프로그래밍**   
    * **HTML, CSS, Javascript, React 활용 및 미니 프로젝트 진행**   
 
----
 
 *  **IT/SW 서비스 구축을 위한 백엔드 프로그래밍**   
    *  **Java, SpringBoot, JPA와 MySQL DB를 이용한 미니 프로젝트 진행**   
 
----
 
 *  **클라우드 기반 IT/SW 서비스 배포**   
    *  **도커, AWS, 젠킨스를 이용한 서비스 빌드 및 배포와 CI, CD**   
 
----
+
 
 ## 📝 IT-Academy Repository   
 
